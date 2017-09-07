@@ -1,3 +1,7 @@
+ENTITY_CHOICES = (
+        ('LOCAL', 'Local'),
+        ('FOREIGN', 'Foreign'),
+    )
 ORG_TYPE_CHOICES = (
         (ORG_TYPE_DEFAULT,'---------'),
         ('Local NGO','Local NGO'),
